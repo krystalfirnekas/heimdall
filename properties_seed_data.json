@@ -1,0 +1,17 @@
+[
+    {
+        "property_id": 1,
+        "property_name": "Chrysler Building",
+        "property_state": "New York",
+        "property_address": "405 Lexington Ave",
+        "is_active": 0,
+    },
+    {
+        "property_id": 2,
+        "property_name": "Walt Disney Concert Hall",
+        "property_state": "Los Angeles",
+        "property_address": "135 North Grand Avenue",
+        "is_active": 1,
+        
+    }
+]
